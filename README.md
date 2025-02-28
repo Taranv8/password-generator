@@ -96,8 +96,6 @@ These functions and properties are integral to the functionality of the Password
 - CSS
 - JavaScript
 
----
 
-Feel free to replace "Gaurav Kumar" with your actual name, and adjust any other details as needed.
 
 
